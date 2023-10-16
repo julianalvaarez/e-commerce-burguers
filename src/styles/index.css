@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.buttonInfo {
+    border: 1px solid white;
+}
+.buttonPedir {
+    border: 1px solid rgb(187, 26, 26);
+}
